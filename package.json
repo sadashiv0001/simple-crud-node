@@ -1,0 +1,32 @@
+{
+  "name": "task-manager-app",
+  "version": "1.0.0",
+  "description": "A simple CRUD Task Manager application in Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadashiv0001/simple-crud-node.git"
+  },
+  "keywords": [
+    "simple",
+    "crud",
+    "node",
+    "js",
+    "task",
+    "manager",
+    "app"
+  ],
+  "author": "Sadashiv Mitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadashiv0001/simple-crud-node/issues"
+  },
+  "homepage": "https://github.com/sadashiv0001/simple-crud-node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
